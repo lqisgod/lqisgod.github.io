@@ -4,7 +4,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1002px;
+  width:813px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -17,13 +17,13 @@
   position:absolute;
   z-index:0;
 }
-#u46_div {
+#u0_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:952px;
-  height:955px;
+  width:727px;
+  height:239px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -34,25 +34,25 @@
   font-size:16px;
   line-height:28px;
 }
-#u46 {
+#u0 {
   border-width:0px;
   position:absolute;
-  left:50px;
-  top:50px;
-  width:952px;
-  height:955px;
+  left:86px;
+  top:58px;
+  width:727px;
+  height:239px;
   display:flex;
   font-size:16px;
   line-height:28px;
 }
-#u46 .text {
+#u0 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u46_text {
+#u0_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

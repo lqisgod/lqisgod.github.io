@@ -34,6 +34,16 @@
 }
 .flow_shape {
 }
+.primary_button {
+  color:#FFFFFF;
+}
+.checkbox {
+  text-align:left;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
 .box_2 {
 }
 .box_3 {
@@ -43,6 +53,8 @@
 .ellipse {
 }
 .shape {
+}
+.image {
 }
 ._图片_ {
 }
@@ -101,6 +113,13 @@
 }
 .arrow {
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .heading_1 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
   font-weight:700;
@@ -123,6 +142,8 @@
 ._流程形状 {
 }
 ._线段 {
+}
+.connector {
 }
 .table_cell {
 }
@@ -149,6 +170,11 @@
   font-style:normal;
   font-size:18px;
   text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
 }
 .shape1 {
 }
@@ -201,12 +227,15 @@
   font-size:12px;
   text-align:left;
 }
-.image {
+.image1 {
   color:#000000;
 }
 .label {
   font-size:14px;
   text-align:left;
+}
+.text_link {
+  color:#0000FF;
 }
 .icon {
 }
@@ -218,5 +247,14 @@
   color:#666666;
 }
 .line1 {
+}
+.link_button {
+  color:#169BD5;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape1 {
 }
 textarea, select, input, button { outline: none; }
